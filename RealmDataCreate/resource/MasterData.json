@@ -1,0 +1,17 @@
+{
+    "SingsZodiac":[
+                   {"id":"00000119","name":"やぎ座","mindate":0,"maxdate":119},
+                   {"id":"01200218","name":"みずがめ座","mindate":120,"maxdate":218},
+                   {"id":"02190320","name":"うお座","mindate":219,"maxdate":320},
+                   {"id":"03210419","name":"おひつじ座","mindate":321,"maxdate":419},
+                   {"id":"04200520","name":"おうし座","mindate":420,"maxdate":520},
+                   {"id":"05210621","name":"ふたご座","mindate":521,"maxdate":621},
+                   {"id":"06220722","name":"かに座","mindate":622,"maxdate":722},
+                   {"id":"07230822","name":"しし座","mindate":723,"maxdate":822},
+                   {"id":"08230922","name":"おとめ座","mindate":823,"maxdate":922},
+                   {"id":"09231023","name":"てんびん座","mindate":923,"maxdate":1023},
+                   {"id":"10241121","name":"さそり座","mindate":1024,"maxdate":1121},
+                   {"id":"11221221","name":"いて座","mindate":1122,"maxdate":1221},
+                   {"id":"12221231","name":"やぎ座","mindate":1222,"maxdate":1231}
+    ]
+}
